@@ -6,6 +6,7 @@ describe "Tests del Primer Punto"{
 	}
 	//Tests Primer Punto
 	
+	
 	test "Nivel de hechicería de Rolando es 56 con Espectro Malefico de Hechizo Preferido" {
 		rolando.calcularNivelHechiceria()
 		assert.equals(56,rolando.nivelHechiceria())
