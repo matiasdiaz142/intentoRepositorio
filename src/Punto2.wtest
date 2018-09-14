@@ -10,6 +10,7 @@ describe "Tests del Segundo Punto"{
 	}
 	//Tests Segundo Punto
 	
+	
 	test "Eliminando todos los artefactos, la habilidad de Rolando es 1" {
 		rolando.removerArtefacto(espada)
 		rolando.removerArtefacto(collarDivino)

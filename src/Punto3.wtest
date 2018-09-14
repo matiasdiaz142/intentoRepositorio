@@ -10,6 +10,7 @@ describe "Tests del Tercer Punto"{
 		rolando.agregarArtefacto(armadura)
 		rolando.agregarArtefacto(espejoFantastico)
 	}
+	
 	//Tests Tercer Punto
 	
 	test "Rolando esta cargado con sus 5 artefactos" {

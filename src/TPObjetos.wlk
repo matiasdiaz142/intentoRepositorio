@@ -7,6 +7,7 @@ object rolando{
 	var property habilidadLucha 
 	var property baseLucha = 1
 	//Punto 1
+	
 	method calcularNivelHechiceria() {
 		nivelHechiceria = (valorBaseHechiceria * hechizoPreferido.poder()) + fuerzaOscura
 	}
